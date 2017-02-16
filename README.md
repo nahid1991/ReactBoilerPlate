@@ -1,2 +1,2 @@
 # ReactBoilerplate
-A boiler plate for react app.
+A simple boilerplate for react project.
